@@ -25,7 +25,7 @@ This is the another model of the Repository
 * Unorderd list
 
 -------------------------------------------------------------------------------------------------------------------------------------
-* APSSDC
+APSSDC
    - Python
         - ML(machine learning)
         - Data science(DS) 
