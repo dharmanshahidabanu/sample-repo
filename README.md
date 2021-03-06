@@ -1,3 +1,6 @@
+[APSSDC]("https://www.apssdc.in/home/")
+[CBIT]("https://www.cbit.ac.in/")
+
 # sample-repository of our APPSDC-CBIT-GPET
 ## sample-repository of our APPSDC-CBIT-GPET
 ### sample-repository of our APPSDC-CBIT-GPET
@@ -41,9 +44,11 @@ APSSDC
   <img src="https://resultsnew.com/wp-content/uploads/2018/03/CBIT-VBIT-Proddatur-Admissions.jpg">
   
 -------------------------------------------------------------------------------------------------------------
-  Hyperlinks
+*  Hperlinks
+  [APSSDC](https://www.apssdc.in/home/)
+  [CBIT](https://www.cbit.ac.in/)
+
   
-   [APSSDC]("https://www.apssdc.in/home/")
+  
+  
    
-   
-   [CBIT]("https://www.cbit.ac.in/")
